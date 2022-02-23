@@ -1,9 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 a {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
 }
 
-li {
-  display: inline;
+
+img {
+    background: fixed;
+    background-size: cover;
+    
 }
