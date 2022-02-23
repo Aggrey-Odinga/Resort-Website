@@ -7,8 +7,12 @@ a {
 }
 
 
-img {
-    background: fixed;
-    background-size: cover;
-    
+.hero-image {
+  background-image: url("/images/sara-dubler-Koei_7yYtIo-unsplash.jpg");
+  background-color: #cccccc;
+  height: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
